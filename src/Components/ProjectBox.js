@@ -6,12 +6,11 @@ const ProjectBox = ({ projectName }) => {
   // Project Descriptions and Links
   const desc = {
     SuperResolutionDesc: "A cross-platform application built using Qt C++ that integrates a Python backend for image super-resolution. It enhances image quality efficiently by leveraging advanced processing techniques and seamless backend integration.",
-    SuperResolutionGithub: "https://github.com/your-username/SuperResolution",
-    SuperResolutionWebsite: "https://your-website-link.com", // Add website link
+    SuperResolutionGithub: "https://github.com/Princek469/Super-Resolution", // Add website link
 
-    BudgetFriendlyDesc: "A budget management application built using React JS with Firebase authentication. It allows users to securely log in and track their expenses, set budgets, and manage finances effectively in an organized manner",
-    BudgetFriendlyGithub: "https://github.com/Princek469?tab=repositories",
-    BudgetFriendlyWebsite: "https://your-website-link.com", // Add website link
+    BudgetFriendlyDesc: "A budget management application built using React JS and tailwind css with Firebase authentication. It allows users to securely log in and track their expenses, set budgets, and manage finances effectively in an organized manner and they can also show the history of expenses",
+    BudgetFriendlyGithub: "https://github.com/Princek469/Budget-Friendly",
+    BudgetFriendlyWebsite: "https://budget-friendly.vercel.app/", // Add website link
 
     RogFreeDesc: "A website that shows over seven specialized yoga postures for specific diseases or health problems. Built using HTML, CSS and Javascript",
     RogFreeGithub: "https://github.com/Princek469/rog-mukt",
